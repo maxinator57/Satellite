@@ -1,6 +1,4 @@
 import math
-import matplotlib.pyplot as plt
-import numpy as np
 
 def simulate(planets, startpoint, v, time):
     G = 6.674083131 * (10 ** (-11))
